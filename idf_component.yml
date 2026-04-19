@@ -1,0 +1,7 @@
+dependencies:
+  idf:
+    version: ">=6.0.0"
+  espressif/esp32-camera:
+    override_path: ../managed_components/espressif__esp32-camera
+  espressif/esp-dl: "*"
+  espressif/human_face_detect: "*"
